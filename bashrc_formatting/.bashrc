@@ -25,3 +25,4 @@ PS1="\${debian_chroot:+(\$debian_chroot)}"\
 '\n'"\
 \$(if [[ \$? == 0 ]]; then echo \"${PROMPT_SYMBOL_SUCCESS}\"; else echo \"${PROMPT_SYMBOL_ERROR}\"; fi) "\
 "${YELLOW}\\$ ${RESET}"
+

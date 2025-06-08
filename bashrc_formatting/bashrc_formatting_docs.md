@@ -96,6 +96,8 @@ PS1="\${debian_chroot:+(\$debian_chroot)}"\
 
 ---
 
+
+
 ## 📚 References
 
 * [GNU Bash Prompt Documentation](https://www.gnu.org/software/bash/manual/html_node/Controlling-the-Prompt.html)
